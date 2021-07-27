@@ -3,36 +3,36 @@
     "id": 1,
     "title": "Notebook",
     "price": 1000,
-    "image": "images/notebook.png"
+    "image": "notebook.png"
   },
   {
     "id": 2,
     "title": "Mouse",
     "price": 100,
-    "image": "images/mouse.png"
+    "image": "mouse.png"
   },
   {
     "id": 3,
     "title": "Keyboard",
     "price": 250,
-    "image": "images/keyboard.png"
+    "image": "keyboard.png"
   },
   {
     "id": 4,
     "title": "Gamepad",
     "price": 150,
-    "image": "images/gamepad.png"
+    "image": "gamepad.png"
   },
   {
     "id": 5,
     "title": "Pc monitor",
     "price": 450,
-    "image": "images/not-product.png"
+    "image": "not-product.png"
   },
   {
     "id": 6,
     "title": "Webcam",
     "price": 50,
-    "image": "images/not-product.png"
+    "image": "not-product.png"
   }
 ]
