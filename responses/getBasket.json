@@ -1,0 +1,20 @@
+{
+  "amount": 46600,
+  "countGoods": 2,
+  "contents": [
+    {
+      "id": 1,
+      "title": "Notebook",
+      "price": 1000,
+      "image": "notebook.png",
+      "quantity": 1
+    },
+    {
+      "id": 2,
+      "title": "Mouse",
+      "price": 100,
+      "image": "mouse.png",
+      "quantity": 1
+    }
+  ]
+}
