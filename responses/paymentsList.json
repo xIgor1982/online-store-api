@@ -6,15 +6,15 @@
           "value": 169,
         },
         {
-          id: 2,
-          date: '24.03.2021',
-          category: 'Transport',
-          value: 360,
+          "id": 2,
+          "date": "24.03.2021",
+          "category": "Transport",
+          "value": 360,
         },
         {
           "id": 3,
-          "date": '24.03.2021',
-          "category": 'Food',
+          "date": "24.03.2021",
+          "category": "Food",
           "value": 532,
         },
         {
